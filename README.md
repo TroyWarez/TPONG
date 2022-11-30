@@ -1,4 +1,4 @@
 # TPONG
 TPONG
 
-Basic ping pong game in opengl (broken currently).
+https://github.com/TroyWarez/TPONG-D2D 
